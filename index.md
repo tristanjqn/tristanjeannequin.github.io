@@ -9,12 +9,9 @@ hero_image_ratio: is-1by1
 ---
 
 # Tristan JEANNEQUIN
-Elève ingénieur en [préciser sa spécialité]
+Elève en première année d'Unilasalle Amiens
 
-
-Disponible XX mois à partir de Date
-
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+Disponible 1 mois à partir du 15 Juin
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
