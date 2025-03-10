@@ -1,6 +1,6 @@
 ---
 layout: promo-page
-title: Qui suis-je?
+title: Tristan JEANNEQUIN
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
