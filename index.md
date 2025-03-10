@@ -15,5 +15,8 @@ Disponible 1 mois à partir du 15 Juin
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
+[Insta](https://www.instagram.com/tristan_jqn?igsh=MWs0cjl4MDJtNDJzbg%3D%3D&utm_source=qr)
+Allez vous abonnez!
+
 Permis B, voiture
 
