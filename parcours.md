@@ -8,18 +8,18 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+UniLaSalle Amiens
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en Énergie et Numérique
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX – 20XX`
 **DUT [préciser la spécialité]** - Université [préciser le lieu]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+2024
+Bac Général (Mathématique et Physique-Chimie), mention Assez Bien, Lycée Jean Rostand - Chantilly
 
 ## Expériences
 
@@ -38,22 +38,21 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
+`2025` **Association, description de l’asso., taille**
 
-_Intitulé du poste dans une équipe de XX membres_
+Vice-Président du Bureau des Sports d'UniLaSalle Amiens
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais LV1 : niveau B1 (TOEIC)
+* Espagnol LV2 : niveau A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+Language C
 
-Autres
+Autres:
 * Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
